@@ -355,6 +355,9 @@ input::placeholder{
     .repo_followers_following_main {
         place-items: center;
     }
+    .r_f_f {
+    align-items: center;
+}
 }
 @media (max-width: 375px) {
     .profilecard_cont {
