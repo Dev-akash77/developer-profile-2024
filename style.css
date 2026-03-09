@@ -42,6 +42,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+.nm{
+display:flex;
+}
+
 .cc{
     display: flex;
     flex-direction: column;
